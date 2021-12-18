@@ -3,7 +3,11 @@
 2014 copyright section
 -->
 <head>
-	<title>Real Changes HTML file</title>
+<<<<<<< HEAD
+	<title>Master Changes HTML file</title>
+=======
+	<title>Real Change HTML file</title>
+>>>>>>> realchanges
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -17,11 +21,19 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Real changes some content
+<<<<<<< HEAD
+			Master some content
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Real changes 2014</p>
+		<p>&copy; Master changes 2014</p>
+=======
+			Real change some content
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Real change 2014</p>
+>>>>>>> realchanges
 	</footer>
 </body>
 </html>
